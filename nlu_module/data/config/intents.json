@@ -1,0 +1,20 @@
+[
+  "request_emergency",
+  "report_symptom",
+  "inquire_medicine",
+  "set_or_update_medication",
+  "cancel_medication",
+  "check_medication",
+  "set_or_update_appointment",
+  "cancel_appointment",
+  "check_appointment",
+  "small_talk",
+  "ask_help",
+  "ask_date_time",
+  "affirm",
+  "deny",
+  "ask_repeat",
+  "stop_action",
+  "fallback",
+  "out_of_scope"
+]

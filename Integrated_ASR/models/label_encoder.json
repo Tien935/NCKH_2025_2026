@@ -1,0 +1,20 @@
+{
+    "0": "affirm",
+    "1": "ask_date_time",
+    "2": "ask_help",
+    "3": "ask_repeat",
+    "4": "cancel_appointment",
+    "5": "cancel_medication",
+    "6": "check_appointment",
+    "7": "check_medication",
+    "8": "deny",
+    "9": "fallback",
+    "10": "inquire_medicine",
+    "11": "out_of_scope",
+    "12": "report_symptom",
+    "13": "request_emergency",
+    "14": "set_or_update_appointment",
+    "15": "set_or_update_medication",
+    "16": "small_talk",
+    "17": "stop_action"
+}

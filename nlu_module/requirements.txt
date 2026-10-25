@@ -1,0 +1,13 @@
+# Xử lý dữ liệu và bảng biểu
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLU và Học máy
+tensorflow>=2.14.0
+scikit-learn>=1.3.0
+sentence-transformers>=2.2.0
+
+# Hỗ trợ chuyển đổi và chạy TFLite
+
+# Xử lý ngôn ngữ tự nhiên (nếu cần regex hoặc tokenize phức tạp)
+regex>=2023.0.0
